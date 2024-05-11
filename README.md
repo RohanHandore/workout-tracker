@@ -7,7 +7,6 @@ A MERN-stack fitness tracker app.
 - [Technology](#Technology)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contribution](#contribution)
 - [Questions](#questions)
 
@@ -41,7 +40,7 @@ After installing npm packages, the application will be invoked by using the foll
 npm run develop
 ```
 
-[Click me to see the app!](https://fittrack-mlvj.onrender.com)
+[Click me to see the app!](https:rohanhandore.tech)
 
 #### Example Screenshot
 
@@ -69,20 +68,16 @@ npm run develop
 - Single Resistance History <br>
   ![Screenshot](./client/src/assets/screenshots/8.png)
 
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
-This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
 
 ## Contribution
 
 - Icons are from www.flaticon.com
 - Backgroun photos are from www.pexels.com
-- Made with ❤️ by Wenwen Tian
+- Made with ❤️ by Rohan Handore
 
 ## Questions?
 
 Please feel free to contact me if you need any further information:
 
-- [Email](wwtian9@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
+- [Email](rohanhandore021@gmail.com)
+- [Github Profile](https:rohanhandore.tech)
